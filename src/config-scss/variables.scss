@@ -1,6 +1,54 @@
 :root{
-    --white: #FFF;
-
+    // Background colors
     --primary-color: #262835;
+    --background-white: #FFFFFF;
+    --background-default-input: #F2F2F2;
+    --background-pressed-input: #E2E2E2;
+    --background-modal: #17171B;
+
+    // Background Type
+    --background-type-bug: #8BD674;
+    --background-type-dark: #6F6E78;
+    --background-type-dragon: #7383B9;
+    --background-type-electric: #F2CB55;
+    --background-type-fairy: #EBA8C3;
+    --background-type-fighting: #EB4971;
+    --background-type-fire: #FFA756;
+    --background-type-flying: #83A2E3;
+    --background-type-ghost: #8571BE;
+    --background-type-grass: #8BBE8A;
+    --background-type-ground: #F78551;
+    --background-type-ice: #91D8DF;
+    --background-type-normal: #B5B9C4;
+    --background-type-poison: #9F6E97;
+    --background-type-psychic: #FF6568;
+    --background-type-rock: #D4C294;
+    --background-type-steel: #4C91B2;
+    --background-type-water: #58ABF6;
+
+    // Types
+    --type-bug: #729f3f;
+    --type-dark: #58575F;
+    --type-dragon: #0F6AC0;
+    --type-electric: #eed535;
+    --type-fairy: #fdb9e9;
+    --type-fighting: #d56723;
+    --type-fire: #fd7d24;
+    --type-flying: #3dc7ef;
+    --type-ghost: #7b62a3;
+    --type-grass: #9bcc50;
+    --type-ground: #DD7748;
+    --type-ice: #51c4e7;
+    --type-normal: #a4acaf;
+    --type-poison: #b97fc9;
+    --type-psychic: #f366b9;
+    --type-rock: #a38c21;
+    --type-steel: #9eb7b8;
+    --type-water: #4592c4;
+
+    // Default colors
+
+    --default-white: #FFF;
+
     --secondary-color: #FF5473;
 }
